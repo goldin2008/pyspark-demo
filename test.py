@@ -129,5 +129,5 @@ list1 = ['recency','frequency','monetary_value']
 
 for i in list1:
     sns.barplot(x='prediction',y=str(i),data=avg_df)
-    # plt.show()
-    pl.savefig("figure/"+i+".png")
+    plt.show()
+    # pl.savefig("figure/"+i+".png")
