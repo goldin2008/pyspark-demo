@@ -47,3 +47,5 @@ source pysparkenv/bin/activate
 > https://sparkbyexamples.com/pyspark-tutorial/
 
 > https://mungingdata.com/pyspark/testing-pytest-chispa/
+
+> https://realpython.com/pyspark-intro/
