@@ -38,6 +38,8 @@ source pysparkenv/bin/activate
 ```
 
 ### Reference
+> https://realpython.com/pyspark-intro/
+
 > https://www.datacamp.com/tutorial/pyspark-tutorial-getting-started-with-pyspark
 
 > https://www.guru99.com/pyspark-tutorial.html
@@ -47,5 +49,3 @@ source pysparkenv/bin/activate
 > https://sparkbyexamples.com/pyspark-tutorial/
 
 > https://mungingdata.com/pyspark/testing-pytest-chispa/
-
-> https://realpython.com/pyspark-intro/
