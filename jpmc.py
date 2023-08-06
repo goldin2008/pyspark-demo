@@ -46,4 +46,3 @@ all_associates_df = find_all_associates(df, manager_name)
 
 # Show the dataframe
 all_associates_df.show()
-
